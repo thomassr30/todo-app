@@ -16,7 +16,7 @@ const todosData = [
     {
         id: 3,
         text: 'Estudiar',
-        isCompleted: true,
+        isCompleted: false,
         isToday: true,
         hour: '21:00'
     },
